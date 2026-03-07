@@ -1,4 +1,3 @@
-
 vpc_cidr = "10.81.0.0/16"
 rt_cidr = "0.0.0.0/0"
 sn_cidr = "10.81.3.0/24"
@@ -7,5 +6,4 @@ eip_pvtip = "10.81.3.33"
 ami = "ami-02dfbd4ff395f2a1b"
 instance_type = "t2.micro"
 key_name = "Kalyankey"
-instance_env = "terraform_var"
-
+instance_env = "dev"

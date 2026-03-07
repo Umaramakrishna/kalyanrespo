@@ -7,5 +7,4 @@ eip_pvtip = "10.81.3.33"
 ami = "ami-02dfbd4ff395f2a1b"
 instance_type = "t2.micro"
 key_name = "Kalyankey"
-instance_env = "terraform_var"
-
+instance_env = "prod"
